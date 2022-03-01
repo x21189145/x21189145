@@ -1,6 +1,6 @@
 body{
 	font-size:100%;
-	background-color:#f2f2f2;
+	background-color:white;
 }
 
 p{
@@ -93,4 +93,8 @@ h3{
   .box3{
     flex-basis: 25%;
     order: 3;
+  }
+  .bootstrapBox{
+	  border:1px solid #dee2e6;
+	  border-top: 0;
   }
