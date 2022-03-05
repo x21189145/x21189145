@@ -98,3 +98,15 @@ h3{
 	  border:1px solid #dee2e6;
 	  border-top: 0;
   }
+  .CentrebootstrapBox{
+	  border:1px solid #dee2e6;
+	  height:95vh;
+	  margin: 20px;
+  }
+
+  .CentreDIV{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
